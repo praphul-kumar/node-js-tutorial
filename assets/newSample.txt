@@ -1,0 +1,4 @@
+This is all about writing into a file using NodeJS
+ This is the end of the file
+ this is the final end of the file.
+ we successfully renamed this file.
