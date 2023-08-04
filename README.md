@@ -10,3 +10,10 @@ npm init
 npm -i --save-dev nodemon
 ```
 this command will install the `nodemon` package for this project only
+
+### Install the `dotenv` package
+```
+npm i dotenv
+```
+
+The `dotenv` package is very helpful if you want to work with .env file
