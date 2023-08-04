@@ -1,2 +1,6 @@
-# node-js-tutorial
-Learning Node JS
+# Learning Node JS
+
+# Init Project:
+```
+npm init
+```
